@@ -1,0 +1,17 @@
+C:\Users\M ADNAN NAEEM\source\repos\Star Technical\Star Technical\bin\Debug\Star Technical.exe.config
+C:\Users\M ADNAN NAEEM\source\repos\Star Technical\Star Technical\bin\Debug\Star Technical.exe
+C:\Users\M ADNAN NAEEM\source\repos\Star Technical\Star Technical\bin\Debug\Star Technical.pdb
+C:\Users\M ADNAN NAEEM\source\repos\Star Technical\Star Technical\obj\Debug\Star Technical.csprojAssemblyReference.cache
+C:\Users\M ADNAN NAEEM\source\repos\Star Technical\Star Technical\obj\Debug\Star_Technical.Form1.resources
+C:\Users\M ADNAN NAEEM\source\repos\Star Technical\Star Technical\obj\Debug\Star_Technical.Properties.Resources.resources
+C:\Users\M ADNAN NAEEM\source\repos\Star Technical\Star Technical\obj\Debug\Star Technical.csproj.GenerateResource.cache
+C:\Users\M ADNAN NAEEM\source\repos\Star Technical\Star Technical\obj\Debug\Star Technical.csproj.CoreCompileInputs.cache
+C:\Users\M ADNAN NAEEM\source\repos\Star Technical\Star Technical\obj\Debug\Star Technical.exe
+C:\Users\M ADNAN NAEEM\source\repos\Star Technical\Star Technical\obj\Debug\Star Technical.pdb
+C:\Users\M ADNAN NAEEM\source\repos\Star Technical\Star Technical\obj\Debug\Star_Technical.Forms.FormAdmin.resources
+C:\Users\M ADNAN NAEEM\source\repos\Star Technical\Star Technical\obj\Debug\Star_Technical.Forms.FormDashboard.resources
+C:\Users\M ADNAN NAEEM\source\repos\Star Technical\Star Technical\obj\Debug\Star_Technical.Forms.FormDocument.resources
+C:\Users\M ADNAN NAEEM\source\repos\Star Technical\Star Technical\obj\Debug\Star_Technical.Forms.FormEmployee.resources
+C:\Users\M ADNAN NAEEM\source\repos\Star Technical\Star Technical\obj\Debug\Star_Technical.Forms.FormFinance.resources
+C:\Users\M ADNAN NAEEM\source\repos\Star Technical\Star Technical\obj\Debug\Star_Technical.Forms.FormTask.resources
+C:\Users\M ADNAN NAEEM\source\repos\Star Technical\Star Technical\obj\Debug\Star_Technical.Forms.Form_Add_admin.resources
