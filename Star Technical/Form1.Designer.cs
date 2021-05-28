@@ -43,9 +43,11 @@ namespace Star_Technical
             this.panel_title = new System.Windows.Forms.Panel();
             this.label_title = new System.Windows.Forms.Label();
             this.panel_dashbord = new System.Windows.Forms.Panel();
+            this.label2 = new System.Windows.Forms.Label();
             this.panel_menu.SuspendLayout();
             this.panel_logo.SuspendLayout();
             this.panel_title.SuspendLayout();
+            this.panel_dashbord.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel_menu
@@ -236,11 +238,22 @@ namespace Star_Technical
             // 
             // panel_dashbord
             // 
+            this.panel_dashbord.Controls.Add(this.label2);
             this.panel_dashbord.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel_dashbord.Location = new System.Drawing.Point(220, 80);
             this.panel_dashbord.Name = "panel_dashbord";
             this.panel_dashbord.Size = new System.Drawing.Size(1174, 664);
             this.panel_dashbord.TabIndex = 2;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(459, 27);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(71, 26);
+            this.label2.TabIndex = 0;
+            this.label2.Text = "Home";
             // 
             // Form1
             // 
@@ -257,6 +270,8 @@ namespace Star_Technical
             this.panel_logo.PerformLayout();
             this.panel_title.ResumeLayout(false);
             this.panel_title.PerformLayout();
+            this.panel_dashbord.ResumeLayout(false);
+            this.panel_dashbord.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -276,6 +291,7 @@ namespace Star_Technical
         private System.Windows.Forms.Button btn_employee;
         private System.Windows.Forms.Button btn_admin;
         private System.Windows.Forms.Button btn_dashboard;
+        private System.Windows.Forms.Label label2;
     }
 }
 
